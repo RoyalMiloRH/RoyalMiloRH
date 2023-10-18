@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![](https://github.com/RoyalMiloRH/RoyalMiloRH/blob/main/Presentacion.gif)
 <h1 align="center">I'm Ricardo Bohorquez</h1>
 <h5 align="left"><p>Actualmente estoy estudiando informatica. A traves de mis estudios he adquirido conocimientos en Javascript,Java,ReactJS,Node.js.</p>Ademas he desarrollado habilidades en HTML,CSS,Bootstrap y MySQL Server gracias a la combinacion de cursos y formacion academica. Tengo el compromiso, la capacidad para dar lo mejor de mí y aprender para lograr las mejores soluciones. Pienso que si todo se realiza con motivación es algo muy clave y generalmente se llegan a los mejores resultados.</h5>
 
