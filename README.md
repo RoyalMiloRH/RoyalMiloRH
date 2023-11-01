@@ -2,10 +2,10 @@
 <h1 align="center">I'm Ricardo Bohorquez</h1>
     <p align="left"><strong>Bienvendio a mi Github</strong> </p> 
     <ul>
-        <li><p>📚 Actualmente estoy estudiando informatica. A traves de mis estudios he adquirido conocimientos en Javascript,Java,ReactJS,Node.js. Ademas he desarrollado habilidades en HTML,CSS,Bootstrap y MySQL Server gracias a la combinacion de cursos y formacion academica.</p></li>
-        <li><p>🙂 Tengo el compromiso, la capacidad para dar lo mejor de mí y aprender para lograr las mejores soluciones, pienso que si todo se realiza con motivación es algo muy clave y generalmente se llegan a los mejores resultados.</p></li>
-        <li><p>👾 My nickname: Milo</p></li>
-        <p align="left">👨🏻‍🔧#AbiertoParaTrabajar</p>
+        <li><p dir="auto">📚 Actualmente estoy estudiando informatica. A traves de mis estudios he adquirido conocimientos en Javascript,Java,ReactJS,Node.js. Ademas he desarrollado habilidades en HTML,CSS,Bootstrap y MySQL Server gracias a la combinacion de cursos y formacion academica.</p></li>
+        <li><p dir="auto">🙂 Tengo el compromiso, la capacidad para dar lo mejor de mí y aprender para lograr las mejores soluciones, pienso que si todo se realiza con motivación es algo muy clave y generalmente se llegan a los mejores resultados.</p></li>
+        <li><p dir="auto">👾 My nickname: Milo</p></li>
+        <p align="left" dir="auto">👨🏻‍🔧#AbiertoParaTrabajar</p>
     </ul>
 - Puedes enviarme un  correo aca -> <a href="miloxd@hotmail.es">Email📫</a>
 <br><br>
