@@ -3,11 +3,11 @@
 <h1 align="center">I'm Ricardo Bohorquez</h1>
     <h5 align="left">Bienvendio a mi Github </h5> 
     <ul><h5 align="left">
-        <li><p>Actualmente estoy estudiando informatica. A traves de mis estudios he adquirido conocimientos en Javascript,Java,ReactJS,Node.js. Ademas he desarrollado habilidades en HTML,CSS,Bootstrap y MySQL Server gracias a la combinacion de cursos y formacion academica.</p></li>
-        <li><p>Tengo el compromiso, la capacidad para dar lo mejor de mí y aprender para lograr las mejores soluciones, pienso que si todo se realiza con motivación es algo muy clave y generalmente se llegan a los mejores resultados.</p></li>
-        <li><p>My nickname: Milo</p></li>
+        <li><p>📚 Actualmente estoy estudiando informatica. A traves de mis estudios he adquirido conocimientos en Javascript,Java,ReactJS,Node.js. Ademas he desarrollado habilidades en HTML,CSS,Bootstrap y MySQL Server gracias a la combinacion de cursos y formacion academica.</p></li>
+        <li><p>🙂 Tengo el compromiso, la capacidad para dar lo mejor de mí y aprender para lograr las mejores soluciones, pienso que si todo se realiza con motivación es algo muy clave y generalmente se llegan a los mejores resultados.</p></li>
+        <li><p>👾 My nickname: Milo</p></li>
         </h5>
-        <p align="left">#AbiertoParaTrabajar</p>
+        <p align="left">👨🏻‍🔧#AbiertoParaTrabajar</p>
     </ul>
 - Puedes enviarme un  correo aca -> [✉](mailto:r.marlyp@gmail.com)
 
