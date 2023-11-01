@@ -23,4 +23,5 @@
 <p align="left"><strong>Mi juego favorito es Dota2 y tengo un servidor en discord:</strong></p>
 <a href="https://discord.gg/js5Vh4r6aS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/swyUk3Rv" height="30" width="40" /></a>
 <br><br>
- <p align="left">👨🏻‍🔧#AbiertoParaTrabajar</p>
+ 
+<p align="center">👨🏻‍🔧#AbiertoParaTrabajar</p>
