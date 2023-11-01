@@ -1,5 +1,4 @@
 ### Hi there 👋
-![](https://github.com/RoyalMiloRH/RoyalMiloRH/blob/main/Presentacion.gif)
 <h1 align="center">I'm Ricardo Bohorquez</h1>
     <h5 align="left">Bienvendio a mi Github </h5> 
     <ul>
