@@ -13,7 +13,7 @@
 <p align="left"><strong>Mis redes:</strong></p>
 <p align="left">
 <a href="https://linkedin.com/in/ricardohermilo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ricardohermilo" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/miloxd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/miloxd/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/miloxd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/miloxd/" height="30" width="40" /></a>
 </p>
 
 <p align="left"><strong>Lenguajes y herramientas:</strong></p>
@@ -21,3 +21,5 @@
 
 <p align="left"><strong>Mi juego favorito es Dota2 y tengo un servidor en discord:</strong></p>
 <a href="https://discord.gg/js5Vh4r6aS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/swyUk3Rv" height="30" width="40" /></a>
+
+![<p href="https://www.facebook.com/MiloxD/"></p>](https://github.com/RoyalMiloRH/RoyalMiloRH/assets/101130288/c0c477cb-2c28-4bd4-802c-181cbb441c89)
